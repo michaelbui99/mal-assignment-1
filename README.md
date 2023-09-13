@@ -5,5 +5,5 @@ Solution to the assignment is found in `assignment01.ipynb`
 ## Contributors
 
 -   Sander Kirchert 304694
--   INSERT NAME AND STUDENT NUMBER HERE
+-   Michael Bui 293886
 -   INSERT NAME AND STUDENT NUMBER HERE

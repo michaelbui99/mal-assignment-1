@@ -6,4 +6,4 @@ Solution to the assignment is found in `assignment01.ipynb`
 
 -   Sander Kirchert 304694
 -   Michael Bui 293886
--   INSERT NAME AND STUDENT NUMBER HERE
+-   Lilian Bittar 293336
